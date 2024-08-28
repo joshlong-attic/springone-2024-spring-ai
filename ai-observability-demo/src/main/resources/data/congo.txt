@@ -1,0 +1,226 @@
+Summary:
+
+Congo is based on the movie of the same name. This machine is notorious for being released so far after the movie release it was almost on video. I haven't seen the movie yet but a friend who plays it did and she said it does a good job of reflecting the movie. I personally feel that this is a very good machine. It may not be exciting to wizards but it is fair (unlike most recent Williams/Bally machines) in that it is not a drain hog (unless your saucer kicks are misaligned) and is not really bouncy or have post-cluttered shots. Overall I give it a B+. It would get an A- if it didn't have the sticky flipper syndrome. A special note of interest from Jim Schelberg (pinGame Journal): Congo marks the end of pinball production at the Williams California Avenue plant. That same plant was also home to the very first Williams game, Suspense. The production space is now filled slot machines :-( Games after Congo are being built in the new facility in north-east Illinois. The design teams, administration and the construction of the first few test games are still there, but most everything else pinball is gone. :-(((((
+
+Playfield:
+
+Here's the various playfield parts, starting from the plunger lane and working clockwise. (* = Diamond Shots, explained later)
+
+Plunger: Dual plunger; the manual plunger is used for skill shots, and an autoplunger is also there for ballsavers and Multiballs.
+
+Right Outlane: Lights a ZINJ letter if not lit. Tucked away in such a way that a ball that gets in here does NOT come back out!
+
+Inlanes: Lights a ZINJ letter if not lit.
+
+Flippers: The usual two, in the usual places. No center post. Congo suffers badly from the "sticky flipper syndrome".
+
+Slingshots: Standard, just like the flippers.
+
+Left Outlane: Kickback here, also your target for a super skill shot. Kickback active for super skill even if not lit and it is not used up when "autofire" (aka ballsaver) is active.
+
+Kickback Targets: Three targets. Light all to activate kickback. If kickback is lit, you can accumulate targets towards next kickback, but targets unlight when completed.
+Upper Flipper: Standard size
+
+Left Orbit: Feeds to rollovers, lock, and extra ball collection. A post is here that holds the ball in the lane for certain modes.
+
+Left Ramp: Collects M-A-P letters. Each score 1,001,000. (First switch scores the thousand, second switch scores the million). Ball normally fed to right inlane except when MAP completed, ball is diverted to left flipper to set up shot to MAP saucer.
+
+GRAY Lane: Collects G-R-A-Y letters. Each score 5M. When completed, ball is held in left orbit while you play the lower playfield. See GRAY Attack below.
+
+Satellite Targets: Two targets, scoring is complicated: 3 different values. After both targets are completed 4 times, Satellite Transfer begins (see below).
+
+Rollovers and AMY Saucer: 3 rollovers labelled A-M-Y. Standard flipper cycling of lit lanes. Completing AMY adds 1x bonus and starts Amy mode (see below). Ball drops in saucer below rollovers and is fed into pop bumpers or backwards along the gorilla's arm to left orbit during Amy mode.
+
+Lock: Past the rollovers is a lock that opens at the appropriate time to lock ball.
+
+Upper Upper Orbit:  Feeds to saucer under rollovers. Can be lit for Mine Hunt, used to score Amy (double scoring), or super jackpot during Volcano Multiball
+
+Upper Orbit: Can be lit for lock (fed to same lock area as above) or looped for 5M+5M a loop.
+
+Bumpers: A triangular pattern of three bumpers, in the middle right of the playfield; fed from the AMY saucer or from the right orbit. Each hit adds a H-I-P-P-O letter in the HIPPO lane which adds 1M to the HIPPO bonus when completed, then letters reset to be completed again. HIPPO bonus is collected if the ball falls through a lane on the far right edge and back out to the playfield, or triple bonus collected at volcano ramp. Hippo bonus resets to zero after collecting it by both methods.
+
+Volcano Ramp: Accessed via lane through pop bumpers. Each ramp scores 10,001,000 plus 3x HIPPO Bonus or adds 1M to HIPPO bonus if at 0M. 3 ramps to light extra ball at this ramp (this value reflexes over time or can be set to a fixed value depending on operator setting). Subsequent extra balls lit at 55(!) ramps. Balls for multiball kicked out of volcano. Ramp feeds right inlane.
+
+HIPPO Lane: As described above in Pop Bumpers.
+
+MAP Saucer: Collects MAP award, collects Jungle/Ghost Tribe/Super Multiball Jackpots, and starts Skill Fire when appropriately lit.
+
+Mystery Saucer: Collects Mystery (complete ZINJ to light), starts Video Mode, or collects Ghost Tribe/Super Multiball Jackpots.
+
+Perimeter Defense Target and the rubber ring to the left of the map saucer: Awards 5M when lit by GRAY lane. Increases 1M per hit.
+
+Hieroglyphic Targets: Accumulate 3 pieces of a picture that says "We are watching you". Complete all 3 targets to start picture and all 3 targets 4 more times to complete (total of 5 completions of 3 targets). When completed, it lights Video Mode.
+
+
+General Rules:
+
+Novice/expert mode is available if operator setting is on. Tournament mode can be started by holding both flippers a few seconds before starting (see below for specifics).
+
+Buy In is disabled in default settings, otherwise you can buy up to 1,2,3,unlimited extra balls depending on operator setting (one credit each); there is a separate buy-in high score board but only records/displays top TWO scores, not four! Separate Diamond Champ display for most diamonds collected, although not a separate one for buy-ins.
+
+Software Changes: None known at this time.
+
+In general, CONGO is a simple game and probably "the best DE/Sega game Williams ever made". I agree with that statement. It plays a lot like a DE game and the rules are similar. I think it is most like Jurassic Park. Generally you collect letters all over the place, start modes, and collect diamonds.
+
+Skill Shot:
+
+Shoot the kickback targets for standard skill shot. Awards: 10M+5M (for game) if lit target hit. If all are flashing, score a fixed 10M. The cycling of lights speeds up as more skill shots are collected. Super skill shot is shot into the left outlane for 25M. If you are lucky, you can get the Kickback Combo out of it.
+
+NOTE: If you don't hit any switches, ball saver is not activated and you get another free shot, so let it drain! If you do hit a switch, ball saver is activated (but skill shots are still active if only a slingshot is hit!), so play the ball and take a shot at the skill shot if you want. Skill shots are active any time the ball is delivered to the plunger after a lock as well. Note some locks do cause a ball to be kicked out of the volcano if it is full from previous player locks.
+
+Collecting Diamonds:
+
+One of the game objectives is to collect diamonds. Number of diamonds required for each lock at each multiball level is 4, 8, 12, ... Diamonds are collected either by making lit diamond shots or by completing various objectives. Diamond shots are re-lit when all are completed (if operator setting is set for this - it is by default) or via other awards (e.g. MAP, Mystery, Mine Shaft, etc...). The bottom
+two saucers (when not lit for diamond) will re-lite one random diamond shot. Completing certain modes can give diamond rewards (e.g. AMY mode, GRAY Attack, etc.). Once you collect 100 diamonds you start the Super Multiball. Each additional 100 diamonds award additional Super Multiballs.
+
+Super Multiball:
+
+This is the wizard mode: All balls ejected (4) with lower playfield active. Jackpots at ramps and lower saucers for 10M. Super Jackpot for defeating gorilla in lower playfield for 50M, however CONGO letters only stay lit for about 5 seconds once they are hit so you have to act fast to complete them all. Relight Super Jackpot by scoring a Jackpot. Mode ends when one ball remains.
+
+Combos:
+
+* M-A-P Completed in a Row: 20M
+* Kickback to Mystery Saucer: 5M
+* Loop Combo: GRAY Lane -> Upper Orbit: 20M
+* GRAY Lane to Perimeter Defense target: 5M
+* Upper Loop repeat: 5M+5M for each loop
+
+
+Multiball:
+
+The standard multiball is started after locking three balls. Once that is done, the three balls are ejected from the volcano and fed to the right flipper. The left and right ramps are lit for jackpots. Jackpots stay lit for the whole multiball and score as described below. The Super Jackpot must be lit by shooting a ball into the AMY saucer. The ball will then be fed back to the upper flipper with the Super Jackpot lit for approximately 20 seconds. Score the Super Jackpot for 2 x Jackpot back at the saucer, but only through the "Super Score" upper-upper orbit. Scoring the Super Jackpot resets the timer.
+
+Jackpots are based on the number of diamonds collected at start of multiball. The formula for calculating that figure is not quite clear. Certain things are known: The value is always in increments of 500K. At 12 AND 13 diamonds collected the value is 16.5M. It seems to increase by 500K for every diamond collected after 16.5M up to a point, then the formula/value changes. A few examples of the jackpot values are as follows: 14 diamonds = 17M, 38 diamonds = 22.5M, 45 diamonds = 26M, 52 diamonds = 28M. If multiball is started by defeating the lower gray gorilla in the 2nd round of GRAY attack, the jackpot is significantly less, about half of what it is when started by locking 3 balls.
+
+M-A-P Awards:
+
+Shoot the left ramp to collect M-A-P letters. Once three letters are collected, the shots to the ramp are diverted to the left flipper for a shot at the MAP award saucer. If you collect all 3 letters in subsequent shots, you collect the MAP Combo for 20M. If MAP is lit at the saucer, you may collect additional letters but if you complete they will be lost.
+
+There are 3 consecutive routes (on the dot matrix display) that the map travel can take to earn the ordered awards. Each route starts with an award of 25M and ends in either Diamond Hunt Multiball award or the "?" by the volcano on the map to award 50 diamonds. Note: there are several "?" awards on the map, but only the one at the end (next to the volcano) of one of the routes awards 50 diamonds. Once a route is completed, the map starts over with the next route, until all three are completed, then they start over with route 1. The 3 routes with their ordered awards are listed below. Don't expect to get much into the second route because even in some of the highest scored games rarely does one get much past the first completed route.
+
+| ROUTE 1                | ROUTE 2                | ROUTE 3                |
+|------------------------|------------------------|------------------------|
+| 25M                    | 25M                    | 25M                    |
+| Re-light Diamonds      | "?" 5 Diamonds         | "?" 5 Diamonds         |
+| Jungle Jackpot         | Jungle Jackpot         | Jungle Jackpot         |
+| Light Extra Ball       | "?" Re-light Diamonds  | Re-light Diamonds  |
+| Re-light Diamonds      | Re-light Diamonds      | Re-light Diamonds      |
+| Skill Fire             | Multiball*             | Skill Fire             |
+| Re-light Diamonds      | Re-light Diamonds      | Re-light Diamonds      |
+| 25M                    | 25M                    | 25M                    |
+| Diamond Hunt Multiball | 50 Diamonds            | Diamond Hunt Multiball |
+
+
+Diamond Hunt Multiball:
+
+This mode is started as an award at Mystery or MAP. You get 1 diamond for starting and all diamond shots are lit for 2 diamonds each. This is a 2 ball multiball with play continuing until 1 ball is left. A good way to collect diamonds towards your 100 diamond goal.
+
+Jungle Jackpot -> Ghost Tribe Multiball:
+
+This mode is started from a MAP award. The ball is released and a countdown from 20M is started. Collect the Jungle Jackpot by re- shooting the MAP saucer. Once the countdown reaches 5M it stays until timed out. If you collect the Jungle Jackpot, you start Ghost Tribe multiball. This is a 2 ball multiball where either MAP or Mystery saucer scores the Jungle Jackpot. Scoring both saucers at the same time awards a super jackpot of 40M.
+
+Skill Fire:
+
+This is a very unique mode and the most valuable mode of the game (other than the "wizard" mode). Skill Fire is lit at the MAP saucer by a MAP award. Once the MAP saucer is shot, Skill Fire begins. Normal game play ends, flippers die, and the ball is ejected and drained. You have 20 seconds to shoot as many skill shots as you can. Shoot for the super skill shot obviously. The base value for the regular skill shot is 10M and for the super skill shot it is 20M. Each time you score a skill shot, the value of both shots increases by the base value of the shot you just made. Super Skill value caps out at 100M, regular skill at 50M. [The following has not been observed on another machine, it is very likely that this was occurring in an early ROM revision. It is severely game unbalancing so this is very likely] If you miss at this point it goes down to 50M. (Need more input about specifically what happens on a miss: divide by 2??) With a perfect run you can score 1B+ on this mode alone!! Note that the software does not expect this and has trouble displaying a 1 Billion score at the completion of this mode. I usually score 1B on a perfect but I have scored 1B missing one shot so I think it is possible to score one more. After the mode times out, the machine waits until all the balls settle in the trough before restarting your ball and allowing you to start the ball off with yet one more skill shot! Our machine has a problem in that sometimes the game refuses to serve another ball and effectively ends your mode prematurely.
+
+A-M-Y Mode:
+
+Completing the rollovers lights the saucer for AMY mode which the ball will drop into next. A countdown is started at 25M and the ball is delivered to the holder in the left orbit to be fed to your left flipper for a shot at the upper upper orbit back to the saucer. If you collect via the upper upper orbit you get Super Score (double). If you collect the award, Amy will say something nice to you and start another countdown. If you collect 3 awards you get 15 diamonds for completing it. If the countdown times out, the mode is over. See Software Bugs section.
+
+GRAY Attack:
+
+Once you complete G-R-A-Y at the GRAY lane, the ball is held at the holder in the left orbit and the lower playfield is activated. You use the flippers to have the gorilla bat the ball with his hands at 5 C-O-N-G-O targets. Score 10M a target and complete the targets for an award before the timer runs out (15 seconds). Awards in order:
+
+* 20 Diamonds
+* Multiball
+* 20 Diamonds
+* Light EB Left
+* 50M from then on.
+
+
+Once you get to the 4th level, a letter scored stays lit for only about 5 seconds so you have to act fast! Note that the mechanics are a little strange. There are 3 positions to the gorilla: hands parallel, left hand back/right hand forward, right hand forward/left hand back. So in order to move the right hand back, you need to hit the left flipper to move the left hand forward. This gives you a better angle shot at the corner targets. Don't just bat wildly, think a little about what you are doing and you should score it every time. If you don't, you are a loser ;)
+
+Some people feel that the Gray attack is too easy to defeat, however the skill comes into play by liting it in the first place. Furthermore, there is an operator setting that can be set so that the GRAY letters do not carry over from ball to ball, just in case the Gray attack and the resulting awards are awarded too frequently.
+
+Mystery Awards
+
+* 25 Million
+* Light Extra Ball (Left)
+* Light Lock
+* Diamond Hunt Multiball
+* Multiball
+* GRAY Complete
+* GRAY Attack
+* 15 Diamonds
+* Increase Bonus Multiplier
+* Video Mode
+
+"Watch out for the HIPPOS!!!":
+
+You steer a boat, avoid rocks (1st wave), Hippos (2nd wave), etc... as follows:
+
+* 1st Wave: Rocks
+* 2nd Wave: Hippos
+* 3rd Wave: Rocks (collect diamonds)
+* 4th+ Wave: Rocks and Hippos (collect diamonds)
+
+Watch out for this video mode, the boat moves in a sluggish manner when you initially move it but speeds up as you hold the flipper button so you need to develop a sweeping type of motion, because you are a boat in water! Video mode scores 1M to start and 5M for each object avoided. Video mode is lit by completing "We are watching you" via hieroglyphic hits (see above).
+
+
+Mine Shaft:
+
+This is always lit at the upper upper orbit unless in a timed mode or multiball. Scoring it puts you in a video mode where you simply choose an entrance and get an award. No skill here whatsoever. You go through different stages. The first has 2 choices, 2nd has 3, 3rd has 4, 4th has 5, and 5th has 5. Choosing an entrance will give you either 5 diamonds, a snake biting your head off, a bear mauling you, or N * 10M for completing stage N. If you get the point award you move to the next stage and continue. If you mess up, you continue at the same place the next time with previous choices boarded up. If you complete the 5th stage and you score the points award, you get 15 diamonds and next time you start over with a new pattern.
+
+I BELIEVE there are a small number of fixed patterns. I mapped one once and I see that same one repeated, so the actual maps of the mine will be listed here as they become available if you want to memorize them(!). [Actually, memorizing them would give a serious competitive advantage!]
+
+Satellite Transfer:
+
+You hit each satellite target to light a panel on the satellite. You need to complete both targets 4 times to start Satellite Transfer mode. Each hit to the targets scores 10M. There are different images on the screen for each hit. This is a timed mode lasting 25 seconds. From RGP: The first six or seven hits will get you various pictures of gorillas, diamonds and the like. The eighth hit gives a cow that mooohhs at you. The next hit gives a duck that quacks, I believe it to be the peking duck from Shadow. After that comes the picture "move your car" from CFBL, with the appropriate sampling. Then follows the "Here's Your Hotdog" picture without the original sampling, a picture I do not remember, and after that it wraps around and goes from the beginning.
+
+Bonus At the end of the ball, bonus is 500K per diamond collected, that's it! But with a good multiplier and lots of diamonds collected it can add up!
+
+This bonus is then multiplied by the current bonus multiplier which is held or not held per operator setting. Default is not held.
+
+Extra Balls:
+
+There are many ways to collect extra balls in this game:
+
+* MAP award lights left orbit
+* 3 Volcano Ramps (based on operator setting) lights Volcano Ramp (right)
+* Mystery lights left orbit
+* GRAY Gorilla Defeated 4th time lights left
+* Complete Bonus 5x lights (left)
+* When a second extra ball is lit it moves to the open extra ball side rather than stacking. If they are both full, I believe they stack.
+
+
+Tournament Mode:
+
+Like most Bally/Williams games, Congo can be switched into "Tournament Mode" by the operator. Like the last few Bally/Williams games, the player can also do this; just insert the money, then hold down both flippers, wait for "TOURNAMENT MODE ENABLED--PRESS START" to pop up on the display, then press Start.
+
+Only thing we have noticed so far is that random awards are given in a fixed pattern every time. That pattern will be printed here when available. Extra balls are still awarded!
+
+Strategy:
+
+This game has a remarkable linear scoring pattern to it. That is, there are no BIG POINTS areas (except for Skill Fire on an early ROM revision and maybe the Wizard Mode), so you have to just keep plugging along and slowly edge your score up. This makes competition more fun I think because one person can't just break through. The skill fire does unbalance the game in early ROM revisions because the super skill shot is too easy.
+
+So the idea is -
+
+* Get the extra balls! They are easy to get, so get them!
+* Get MAP awards while locking balls along the way.
+* Play multiballs as they come.
+* Keep your kickback lit!
+* Collect mystery award after spelling ZINJ.
+* Spell GRAY and defeat lower gorilla for big awards.
+
+That's all there is! Seriously, if you just do that, you do as good as you can (that's why most wizards don't like this game). One trick I use is to collect 3 MAP letters to set the diverter to the left flipper, then shoot the volcano ramp repeatedly to get the extra ball while the ball is always delivered to your left flipper for repeated shots. Collect the extra ball, then move back on the MAP bandwagon... it's easy safe shots.
+
+Software Bugs:
+
+With the latest known revision (as of 6/99) 2.1 there are a few pretty significant bugs. One bug is described as follows: When the extra ball is lit and scored while in Amy Mode and the ball tries to score Amy by going in the saucer (as it should), the extra ball is awarded but Amy is NOT. Instead, the ball just sits in the saucer while the Amy Hurry-Up counts down until a ball search finally kicks it out! By this time you have lost the Amy score and any chance of completing Amy Mode for a 15 diamond award. Another bug is that one of the MAP awards (in the second route) on the dot matrix display is Multiball yet the MAP saucer awards Jungle Jackpot instead. Also, occasionally the ball save will continuously stay lit for approximately half a minute while the ball is in play even though the setting may be at 5 seconds.
+
+Easter Eggs [SPOILER!!]
+
+See Satellite Transfer section for Cows, Ducks, Move Your Car, Here's Your Hotdog. Also, the dot matrix display will show the words Big Points as a joke during the bonus count when the bonus is extremely low, if you collect no diamonds. You will also get a voice saying "Big Points" or other compliment when your bonus count actually is really good, 100M or more.
+
+Special Secret Mode: Yes, there IS a midnight madness! As long as the "Special Mode" setting is on. Most recent Williams/Bally games have a midnight madness feature.
+
