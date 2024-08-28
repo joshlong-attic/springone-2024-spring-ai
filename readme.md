@@ -1,5 +1,7 @@
 # Bootiful Spring AI 
-by Dr. Pollack, Dr. Johnson, and Josh
+by Dr. Mark Pollack, Dr. Rod Johnson, and Josh
+
+you can find [Rod's code here](https://github.com/johnsonr/instrumented-rag)
 
 https://chat.lmsys.org
 
