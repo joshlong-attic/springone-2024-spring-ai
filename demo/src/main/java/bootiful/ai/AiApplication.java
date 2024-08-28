@@ -95,6 +95,7 @@ public class AiApplication {
 	ApplicationRunner memory(ChatClient chatClient) {
 		return args -> {
 			var memory = new InMemoryChatMemory();
+			// if you're using OpenAI you should be using the MessageChatMemoryAdvisor 
 			var promptChatMemoryAdvisor = new PromptChatMemoryAdvisor(memory);
 			System.out.println( chatClient
 					.prompt()
